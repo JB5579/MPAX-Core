@@ -1,0 +1,24 @@
+{
+  "name": "mpax-core",
+  "version": "1.0.0",
+  "description": "MPAX Core Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "install:bmad": "npm install bmad-method"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JB5579/MPAX-Core.git"
+  },
+  "bugs": {
+    "url": "https://github.com/JB5579/MPAX-Core/issues"
+  },
+  "homepage": "https://github.com/JB5579/MPAX-Core#readme",
+  "dependencies": {
+    "bmad-method": "^4.44.1"
+  }
+}
